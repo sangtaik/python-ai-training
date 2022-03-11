@@ -1,4 +1,7 @@
 # ipynb temp files
 
 python-src/.ipynb_checkpoints
+python-src/__pycache__
+python-src/module_basic/.ipynb_checkpoints
+python-src/test_package/.ipynb_checkpoints
 coursera-google-tensorflow/.ipynb_checkpoints
